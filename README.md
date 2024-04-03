@@ -1,5 +1,5 @@
-# Dice-Game
-The Dice Game is an engaging and interactive betting game designed for a single player. Upon starting the game, the player is welcomed and prompted to enter their name. The game begins with an initial pool of 500 points for the player to bet with. In each round, the player places a bet and then rolls two dice. The outcome of the dice roll determines the points won or lost:
+# Dangerous Dice-Game
+DD Game is an engaging and interactive betting game designed for a single player. Upon starting the game, the player is welcomed and prompted to enter their name. The game begins with an initial pool of 500 points for the player to bet with. In each round, the player places a bet and then rolls two dice. The outcome of the dice roll determines the points won or lost:
 
 Rolling double fours adds 200 points plus the bet amount to the player's total.
 Rolling a sum of 7 or 11 adds 100 points plus the bet amount.
